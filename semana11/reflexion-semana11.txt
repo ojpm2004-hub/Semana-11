@@ -1,0 +1,9 @@
+Una plataforma de participación ciudadana requiere una base de datos para almacenar de forma
+organizada y accesible las propuestas, reportes y votos que la comunidad registra activamente.
+Por su parte, la autenticación de usuarios garantiza la legitimidad del proceso, ya que
+permite identificar quién participa, evitando la duplicación de votos o el spam destructivo.
+Finalmente, la protección estricta de la información y de los datos sensibles es indispensable
+para salvaguardar la integridad física, laboral y emocional de los ciudadanos que denuncian.
+Sin estos tres pilares de seguridad, la plataforma perdería toda su credibilidad y utilidad pública.
+Al integrar bases de datos sólidas, accesos controlados y un cifrado seguro, la tecnología se
+convierte en un espacio verdaderamente confiable que empodera a las personas para construir paz.

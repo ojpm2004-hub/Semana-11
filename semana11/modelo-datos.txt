@@ -1,0 +1,28 @@
+Entidad: Reporte_Ciudadano
+
+Campos principales:
+- id (Entero, Clave Primaria)
+- titulo (Texto)
+- descripcion (Texto)
+- sector_general (Texto)
+- gravedad (Texto: ALTA / MEDIA / BAJA)
+- evidencia_url (Texto, enlace a la foto)
+- fecha_creacion (Fecha y Hora)
+- estado (Texto: Pendiente / En Revisión / Resuelto)
+
+Propósito:
+Almacenar los reportes de anomalías o incidencias que los ciudadanos registran de forma anónima o identificada para que la veeduría los investigue.
+
+
+Entidad: Historial_Auditoria
+
+Campos principales:
+- id (Entero, Clave Primaria)
+- reporte_id (Entero, Clave Foránea vinculada a Reporte_Ciudadano)
+- auditor_nombre (Texto)
+- observaciones (Texto)
+- fecha_actualizacion (Fecha y Hora)
+- acciones_tomadas (Texto)
+
+Propósito:
+Registrar el seguimiento interno que el equipo de veeduría hace a cada reporte, garantizando la trazabilidad, el orden en las iteraciones y el control de las acciones de cambio.

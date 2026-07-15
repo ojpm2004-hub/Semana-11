@@ -1,0 +1,13 @@
+Diseño de Interfaz Básica para la Plataforma Comunitaria
+
+1. Formulario para crear una causa o reporte:
+Contará con una sección superior limpia donde cualquier ciudadano podrá ingresar un título representativo de la causa, una descripción detallada de la problemática y seleccionar el sector o categoría de la iniciativa.
+
+2. Vista de causas disponibles:
+El cuerpo principal de la pantalla mostrará un listado organizado en tarjetas (cards) de todas las causas activas y validadas. Cada tarjeta presentará la información clave de forma resumida para facilitar una lectura rápida.
+
+3. Botón para apoyar una causa y contador de apoyos:
+Cada tarjeta de causa tendrá integrado un botón interactivo de "Apoyar Causa" (con un ícono de mano arriba o corazón) junto a un contador numérico que se actualizará en tiempo real para mostrar cuántos ciudadanos respaldan la iniciativa.
+
+4. Enfoque de simplicidad y privacidad:
+La interfaz será intuitiva, ligera y fácil de usar desde teléfonos móviles. Para proteger la seguridad de la comunidad, no se mostrará públicamente el nombre, correo o dato privado de las personas que crearon o apoyaron las causas.
